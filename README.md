@@ -26,7 +26,7 @@ This site is maintained by saintmichael. You can find contact information on htt
    Use GitHub’s *Fork* button to create your own copy of the DGWiki repository.
 
 2. **Add your content under your user directory**  
-   - Create a directory at:`users/<your_username>/`. There is a template folder available named `1usertemplate_copyme` for new users.
+   - Create a directory at:`users/<your_username>/`. There is a template folder available named `TEMPLATES` for new users. READ THE FUCKING `README.md` IN THE ROOT OF THE `YOURUSERHANDLE` DIRECTORY FOR THE FUCKING LOVE OF GOD. thanks. 
    - Include a `README.md` file. This acts as the landing page for your section. Your `README.md` must include your Public Key. This verifies who you say you are and your work.
    - Organize your work into subdirectories such as:
      - `ctf/`
