@@ -20,6 +20,16 @@ Only **verified Digital Gangsters** are permitted to submit content. This requir
 
 This site is maintained by saintmichael. You can find contact information on https://dg4e.net/c0ntact/ to verify your submission. In order to contribute, you must ATLEAST be a `whitelisted` member in the DG Discord.
 
+# DGWiki GitHub Stats
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/github/stars/saintmicha3l/DGWiki?style=social" alt="Stars on GitHub">
+  <img src="https://img.shields.io/github/forks/saintmicha3l/DGWiki?style=social" alt="Forks on GitHub">
+  <img src="https://img.shields.io/github/watchers/saintmicha3l/DGWiki.svg" alt="Watchers on GitHub">
+  <img src="https://img.shields.io/github/license/saintmicha3l/DGWiki" alt="License">
+</div>
+
+
 ### Contribution Workflow
 
 1. **Fork the repository**  
