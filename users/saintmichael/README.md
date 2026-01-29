@@ -25,3 +25,23 @@ No shortcuts. No magic. No snake oil. Only careful observation, relentless testi
 
 You can find my contact information here:  
 [DG4E Contact](https://dg4e.net/c0ntact)
+
+---
+
+## GPG
+
+```plaintext
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaXrodhYJKwYBBAHaRw8BAQdAWYM2ULXCE2+mcndcsJkRJzy4Std1YBkAKper
+CGvJMoa0M3NhaW50bWljaGFlbCAoc2VjdXJlKSA8c2FpbnRtaWNoYTNsQHByb3Rv
+bm1haWwuY29tPoiQBBMWCgA4FiEEpiMF1Gpz9sssRDSke64UP8G0GD0FAml66HYC
+GwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQe64UP8G0GD2WZQEAuZYITpn4
+FdShEJXLLA4Zn4DzmACMs7WY7Tu4ksQOgZ0BAP5Sq0Bb0Wvzcfh7zFsV7w6czK8C
++HnAPBifySX3CiMCuDgEaXrodhIKKwYBBAGXVQEFAQEHQDH5xi7pnBzbYXwLP6VR
+J3JdBKSn2ac9f7UfZFxD3GgnAwEIB4h4BBgWCgAgFiEEpiMF1Gpz9sssRDSke64U
+P8G0GD0FAml66HYCGwwACgkQe64UP8G0GD1YqgEA2gpOwvUcYPtUYuqYhBTz8mT2
+IFIt0kRiai9cQrFZBUsA/0A8X1LELbL3TnDf7/dGJpLZlePk3Hoyt6pNy7rHOHMD
+=PY1R
+-----END PGP PUBLIC KEY BLOCK-----
+```
