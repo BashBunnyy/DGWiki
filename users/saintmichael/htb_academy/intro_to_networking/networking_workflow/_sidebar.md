@@ -2,10 +2,9 @@
 - [Users](users/README.md)
 - [HTB Academy]
     - [Back](/users/saintmichael/htb_academy/README.md)
-    - [Introduction](/users/saintmichael/htb_academy/intro_to_networking/introduction/README.md)
-    - [Network Structure](/users/saintmichael/htb_academy/intro_to_networking/networking_structure/README.md)
-    - [Network Workflow](/users/saintmichael/htb_academy/intro_to_networking/networking_workflow/README.md)
-    - [Addressing](/users/saintmichael/htb_academy/intro_to_networking/addressing/README.md)
+    - [Network Models](/users/saintmichael/htb_academy/intro_to_networking/networking_workflow/networking_models.md)
+    - [The OSI Model](/users/saintmichael/htb_academy/intro_to_networking/networking_workflow/the_OSI_model.md)
+    - [The TCP/IP Model](/users/saintmichael/htb_academy/intro_to_networking/networking_workflow/the_TCPIP_model.md)
 - [Links]
     - [The Github](https://github.com/saintmicha3l/DGWiki)
     - [Digital Gangster OG](https://www.digitalgangster.com)
