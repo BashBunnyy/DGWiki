@@ -1,6 +1,7 @@
 - [Home](README.md)
 - [Users](users/README.md)
 - [Resources](resources/README.md)
+- [Eternal DGs](https://dg4e.net/thecloud)
 - [Links]
     - [The Github](https://github.com/saintmicha3l/DGWiki)
     - [Digital Gangster OG](https://www.digitalgangster.com)
